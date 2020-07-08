@@ -8,4 +8,4 @@
  5. 2 X Push buttons
  6. 2 X 10k ohm Resistors
  
- To learn about this project please visit: 
+ To learn about this project please visit: https://www.circuitschools.com/gps-tracker-with-gsm-gprs-using-blynk-with-sms-and-calling-features/
